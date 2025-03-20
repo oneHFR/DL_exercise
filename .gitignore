@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 .idea/
 
+# 屏蔽所有 .zip 文件
+*.zip
